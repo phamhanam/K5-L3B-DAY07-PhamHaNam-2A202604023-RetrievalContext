@@ -5,17 +5,17 @@ from pathlib import Path
 
 
 def aggregate(cases, traces, reviews):
-    """Cases: id/answerable; traces: query_id/status/events/citations.
+    """Cases: id/answerable; traces: id/status/events/citations.
 
-    Reviews: query_id, answer_grade (0..2 for answerable), citation_support
+    Reviews: id, answer_grade (0..2 for answerable), citation_support
     (one boolean per citation), and abstention_correct (boolean for unanswerable).
     Provider errors are excluded and reported.
     """
     if len({c['id'] for c in cases}) != len(cases):
         raise ValueError('case ID trùng')
-    if len({r['query_id'] for r in traces}) != len(traces) or len({r['query_id'] for r in reviews}) != len(reviews):
+    if len({r['id'] for r in traces}) != len(traces) or len({r['query_id'] for r in reviews}) != len(reviews):
         raise ValueError('trace/review ID trùng')
-    trace_by_id = {r['query_id']: r for r in traces}
+    trace_by_id = {r['id']: r for r in traces}
     review_by_id = {r['query_id']: r for r in reviews}
     out = {'cases': len(cases), 'provider_errors': 0, 'tool_use': {'n': 0, 'N': 0},
            'grounded_answer': {'0': 0, '1': 0, '2': 0, 'N': 0, 'mean': None},
