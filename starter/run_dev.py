@@ -55,6 +55,7 @@ def main() -> None:
             counts[status] = counts.get(status, 0) + 1
             traces.append({
                 "id": qid,
+                "split": args.split,
                 "question": qtext,
                 "answerable": q.get("answerable"),
                 "gold_evidence": q.get("gold_evidence") or q.get("evidence"),
