@@ -1,0 +1,399 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "How does the chapter define economics?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 2,
+        "evidence": "Economics is the study of how humans make decisions in the face of scarcity."
+      }
+    ],
+    "expected_answer": "Economics is the study of how humans make decisions in the face of scarcity.",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "How many distinct tasks did Adam Smith count in making a pin?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 4,
+        "evidence": "Smith counted 18 distinct tasks that different people"
+      }
+    ],
+    "expected_answer": "Smith counted 18 distinct tasks performed by different people in making a pin.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What term describes the situation in which people's desires for goods, services and resources are greater than the amount that exists?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 2,
+        "evidence": "Scarcity means that human wants for goods, services and resources exceed what"
+      }
+    ],
+    "expected_answer": "Scarcity: human wants for goods, services and resources exceed what is available.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "In Adam Smith's pin factory observation, how many pins could one worker alone make in a day compared with a small business of 10 workers?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 5,
+        "evidence": "alone might make 20 pins in a day, but that a small business of 10 workers (some of whom would need to"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 5,
+        "evidence": "complete two or three of the 18 tasks involved with pin-making), could make 48,000 pins in a day."
+      }
+    ],
+    "expected_answer": "One worker alone might make 20 pins in a day, while a small business of 10 workers could make 48,000 pins in a day.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "What three reasons does the chapter give for why dividing and specializing labor raises the amount an economy can produce?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 5,
+        "evidence": "First, specialization in a particular small job allows workers to focus on the parts of the production process"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 5,
+        "evidence": "Second, workers who specialize in certain tasks often learn to produce more quickly and with higher quality."
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 5,
+        "evidence": "Third, specialization allows businesses to take advantage of economies of scale, which means that for many"
+      }
+    ],
+    "expected_answer": "First, specialization lets workers focus on the parts of production where they have an advantage. Second, specialized workers learn to produce more quickly and with higher quality. Third, specialization lets businesses take advantage of economies of scale, where average cost per unit falls as production increases.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "With a weekly budget of $10, burgers at $2 and bus tickets at 50 cents, what are the maximum numbers of burgers and of bus tickets Alphonso can afford if he spends everything on just one of them?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 21,
+        "evidence": "Alphonso spends all his money on burgers, he can afford five per week. ($10 per week/$2 per burger = 5"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 21,
+        "evidence": "tickets, he can afford 20 per week. ($10 per week/$0.50 per bus ticket = 20 bus tickets per week.) Then,"
+      }
+    ],
+    "expected_answer": "If he spends everything on burgers he can afford 5 per week (point A), and if he spends everything on bus tickets he can afford 20 per week (point F).",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "What was the estimated yearly opportunity cost of extra airport waiting time after 9/11, and what hourly value of time and extra wait per trip underlie that figure?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 24,
+        "evidence": "could be as much as 800 million × 0.5 hours × $20/hour, or $8 billion per year."
+      }
+    ],
+    "expected_answer": "About $8 billion per year, based on 800 million passengers each losing 0.5 hours (30 minutes) valued at $20 per hour.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "If someone spends $8 on lunch at a restaurant instead of bringing a $3 lunch from home, how much does that add up to over a year of 250 workdays?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 24,
+        "evidence": "However, if you project what that adds up to in a year—250 days a year × $5 per day equals $1,250, the cost,"
+      }
+    ],
+    "expected_answer": "The $5 daily difference adds up to $1,250 per year (250 days × $5).",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "According to the lesson on sunk costs, how should a person treat money and time that has already been irretrievably spent when making a current decision?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 25,
+        "evidence": "The lesson of sunk costs is to forget about the money and time that is irretrievably"
+      }
+    ],
+    "expected_answer": "They should forget about it and instead focus on the marginal costs and benefits of current and future options, making decisions based on what will happen in the future.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "How do productive efficiency and allocative efficiency differ?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 29,
+        "evidence": "of one good without decreasing the quantity that is produced of another good. All choices on the PPF in Figure"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 29,
+        "evidence": "possibility curve that a society produces represents the combination that society most desires. How to"
+      }
+    ],
+    "expected_answer": "Productive efficiency means it is impossible to produce more of one good without producing less of another, which holds for every choice on the PPF. Allocative efficiency means the particular mix of goods produced is the combination society most desires; only one productively efficient choice will be allocatively efficient.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "In the chapter's US and Brazil example, which country has the comparative advantage in wheat and which in sugar cane?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 30,
+        "evidence": "Due to its climatic conditions, Brazil can produce quite a bit of sugar cane per acre but not much"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 30,
+        "evidence": "opportunity cost of sugar cane is lower in Brazil. The U.S. has comparative advantage in wheat and Brazil has"
+      }
+    ],
+    "expected_answer": "The U.S. has the comparative advantage in wheat, and Brazil has the comparative advantage in sugar cane, because each has the lower opportunity cost for that crop.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What distinction do philosophers draw between positive and normative statements?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 31,
+        "evidence": "Philosophers draw a distinction between positive statements, which describe the world as it is, and"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 31,
+        "evidence": "normative statements, which describe how the world should be. Positive statements are factual. They may be"
+      }
+    ],
+    "expected_answer": "Positive statements describe the world as it is and are factual, so they can be tested and may be true or false. Normative statements describe how the world should be and are subjective opinions based on values.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Where does the chapter place the U.S. economy on the market-to-command spectrum, and how does it characterize China and Russia?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 11,
+        "evidence": "The U.S. economy is positioned toward the market-oriented end of the spectrum. Many"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 12,
+        "evidence": "decades have moved more in the direction of having a market-oriented system, remain closer to the command"
+      }
+    ],
+    "expected_answer": "The U.S. economy is positioned toward the market-oriented end of the spectrum. China and Russia have moved toward market-oriented systems over recent decades but remain closer to the command economy end.",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "By what percentage does a bachelor's degree boost earnings over a high school diploma according to the BLS data, and what share of Americans aged 25 and over held a bachelor's or higher degree in 2019?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 20,
+        "evidence": "degree boosts earnings by 67% over what workers would have earned if they only obtained a high school diploma,"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 20,
+        "evidence": "and over in the United States had a high school diploma, only 36% of those aged 25 and over had a bachelor's or"
+      }
+    ],
+    "expected_answer": "A bachelor's degree boosts earnings by 67% over a high school diploma, and in 2019 only 36% of those aged 25 and over had a bachelor's or higher degree.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What developments does the chapter credit for driving globalization in recent decades?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 13,
+        "evidence": "Globalization has occurred for a number of reasons. Improvements in shipping, as illustrated by the container"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 14,
+        "evidence": "ship in Figure 1.10, and air cargo have driven down transportation costs. Innovations in computing and"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 14,
+        "evidence": "Finally, international agreements and treaties between countries have"
+      }
+    ],
+    "expected_answer": "Improvements in shipping (such as container ships) and air cargo lowered transportation costs; innovations in computing and telecommunications made long-distance economic connections easier and cheaper to manage; and international agreements and treaties encouraged greater trade.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "question": "What were the median weekly earnings in 2020 for full-time workers with a doctoral degree?",
+    "gold": [],
+    "expected_answer": "The provided documents do not contain this information.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "dev",
+    "question": "How many armed sky marshals were proposed to be placed on U.S. flights after the September 11 hijackings?",
+    "gold": [],
+    "expected_answer": "The provided documents do not contain this information.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "In the circular flow model, which two groups of participants interact, and in which two markets do they do so?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 9,
+        "evidence": "consisting of two groups—households and firms—that interact in two markets: the goods and"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 9,
+        "evidence": "services market in which firms sell and households buy and the labor market in which households sell labor to business firms"
+      }
+    ],
+    "expected_answer": "Households and firms interact in the goods and services market (where firms sell and households buy) and in the labor market (where households sell labor to firms).",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Which institution conducts monetary policy in the United States and which conducts fiscal policy, and what does each policy involve?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 8,
+        "evidence": "which involves policies that affect bank lending, interest rates, and financial capital markets. For the United"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 8,
+        "evidence": "government spending and taxes. For the United States, this is the Congress and the executive branch, which"
+      }
+    ],
+    "expected_answer": "The Federal Reserve (the central bank) conducts monetary policy, which involves bank lending, interest rates, and financial capital markets. Congress and the executive branch handle fiscal policy, which involves government spending and taxes.",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "How did Belgium's 2015 exports-to-GDP ratio compare with that of the United States, and why is the U.S. share lower?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 14,
+        "evidence": "United States 12.4 13.6 13.6 13.5 13.5 12.6"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 14,
+        "evidence": "Belgium 76.2 81.4 82.2 82.8 84.0 84.4"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 14,
+        "evidence": "part because large economies like the United States can contain more of the division of labor inside their"
+      }
+    ],
+    "expected_answer": "Belgium's ratio in 2015 was 84.4 versus 12.6 for the United States. The U.S. share is lower in part because large economies can contain more of the division of labor within their own borders.",
+    "filter": null
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "question": "In the 2016 Heritage Foundation Index of Economic Freedom, how many countries were ranked and which country ranked first?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 12,
+        "evidence": "The 2016 Heritage Foundation’s Index of Economic Freedom report ranked 178 countries around the world: Table"
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 12,
+        "evidence": "1. Hong Kong 167. Timor-Leste"
+      }
+    ],
+    "expected_answer": "The report ranked 178 countries, and Hong Kong ranked first (most economic freedom).",
+    "filter": null
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "question": "What metaphor did Adam Smith use to suggest that people pursuing their own interests can end up benefiting society?",
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 33,
+        "evidence": "Third, self-interested behavior can lead to positive social results."
+      },
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 33,
+        "evidence": "The metaphor of the invisible hand suggests the remarkable possibility that broader social good can emerge"
+      }
+    ],
+    "expected_answer": "The invisible hand, which suggests that broader social good can emerge from selfish individual actions.",
+    "filter": null
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "question": "What was Japan's exports-to-GDP ratio in 2015?",
+    "gold": [],
+    "expected_answer": "The provided documents do not contain this information.",
+    "filter": null
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "question": "What numerical economic freedom score did the United States receive in the 2016 Index of Economic Freedom?",
+    "gold": [],
+    "expected_answer": "The provided documents do not contain this information.",
+    "filter": null
+  }
+]
