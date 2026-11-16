@@ -1,0 +1,37 @@
+[
+  {
+    "id": "q06",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q12",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "answerable": true
+  },
+  {
+    "id": "q23",
+    "split": "test",
+    "answerable": false
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "answerable": false
+  }
+]

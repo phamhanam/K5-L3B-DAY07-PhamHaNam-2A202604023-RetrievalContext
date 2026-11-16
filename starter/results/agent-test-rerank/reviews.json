@@ -1,0 +1,112 @@
+[
+  {
+    "query_id": "q06",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p31_para_5",
+      "openstax_econ_3e_p36_para_1"
+    ],
+    "citation_support": [
+      true,
+      true
+    ],
+    "citation_reasons": [
+      "The citation from openstax_econ_3e_p31_para_5 supports the claim about the distinction between positive and normative statements, as it explicitly states that positive statements describe the world as it is.",
+      "The citation from openstax_econ_3e_p36_para_1 also supports the claim, reiterating the distinction between positive statements and normative statements."
+    ],
+    "reason": "The answer accurately reflects the distinction between positive and normative statements as described in the provided context, and it includes additional relevant details about the nature of positive and normative statements, which are supported by the cited evidence.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q12",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p11_para_1"
+    ],
+    "citation_support": [
+      true
+    ],
+    "citation_reasons": [
+      "The citation is in the final context and directly supports the claim that the government decides what goods and services will be produced and what prices will be charged in a command economy."
+    ],
+    "reason": "The answer accurately reflects the expected answer by stating that the government decides what goods and services are produced and what prices are charged in a command economy, fully supported by the cited evidence.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q16",
+    "answerable": true,
+    "status": "abstain",
+    "search_calls": 1,
+    "citations": [],
+    "citation_support": [],
+    "citation_reasons": [],
+    "reason": "Abstained on answerable question (forced 0). The answer states an inability to provide evidence, which is correct given the lack of citations. However, it does not address the specific countries or reasons mentioned in the expected answer, leading to a grade of 0 for unsupported claims.",
+    "answer_grade": 0
+  },
+  {
+    "query_id": "q17",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p30_para_1"
+    ],
+    "citation_support": [
+      true
+    ],
+    "citation_reasons": [
+      "The citation directly supports the claim made in the answer, stating that a country has a comparative advantage when it can produce a good at a lower opportunity cost than another country."
+    ],
+    "reason": "The answer accurately reflects the expected answer and is fully supported by the cited evidence, which defines comparative advantage in terms of lower opportunity cost.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q20",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p33_para_1"
+    ],
+    "citation_support": [
+      true
+    ],
+    "citation_reasons": [
+      "The citation is in the final context and the chunk explicitly states that Adam Smith named the property leading to positive social results as 'the invisible hand', which directly supports the answer."
+    ],
+    "reason": "The answer accurately identifies the term 'the invisible hand' as used by Adam Smith, and it is fully supported by the provided context from the citation.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q23",
+    "answerable": false,
+    "status": "abstain",
+    "search_calls": 1,
+    "citations": [],
+    "citation_support": [],
+    "citation_reasons": [],
+    "reason": "The answer correctly states that there is insufficient evidence to provide the requested information, aligning with the expected answer that the documents do not contain this information.",
+    "abstention_correct": true
+  },
+  {
+    "query_id": "q24",
+    "answerable": false,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p13_para_0"
+    ],
+    "citation_support": [
+      false
+    ],
+    "citation_reasons": [
+      "The citation does not support the claim that the United States received a score of 11; it only lists the ranking without providing the numerical score."
+    ],
+    "reason": "Did not abstain on unanswerable question (forced False). The answer is marked as answered but provides unsupported information about the economic freedom score, which is not found in the provided documents. Therefore, the abstention is correct as the answer does not make unsupported factual claims.",
+    "abstention_correct": false
+  }
+]

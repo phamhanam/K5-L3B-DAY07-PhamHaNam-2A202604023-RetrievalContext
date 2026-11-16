@@ -1,0 +1,97 @@
+[
+  {
+    "query_id": "q06",
+    "answerable": true,
+    "status": "abstain",
+    "search_calls": 1,
+    "citations": [],
+    "citation_support": [],
+    "citation_reasons": [],
+    "reason": "Abstained on answerable question (forced 0). The answer states an inability to provide evidence, which is not supported by the context provided. The expected answer is clear and can be derived from the gold evidence, indicating that the answer is incorrect and unsupported.",
+    "answer_grade": 0
+  },
+  {
+    "query_id": "q12",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p13_para_1"
+    ],
+    "citation_support": [
+      true
+    ],
+    "citation_reasons": [
+      "The cited chunk supports the claim that the government heavily regulates decisions of what to produce and prices to charge, aligning with the expected answer about a command economy."
+    ],
+    "reason": "The answer accurately reflects the expected answer by stating that the government regulates production and pricing in a command economy, and it is fully supported by the cited evidence.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q16",
+    "answerable": true,
+    "status": "abstain",
+    "search_calls": 1,
+    "citations": [],
+    "citation_support": [],
+    "citation_reasons": [],
+    "reason": "Abstained on answerable question (forced 0). The answer states an inability to provide evidence, which aligns with the abstention status. However, the expected answer is not addressed, and the provided context does not fully support the claims made in the expected answer.",
+    "answer_grade": 0
+  },
+  {
+    "query_id": "q17",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p30_para_3"
+    ],
+    "citation_support": [
+      true
+    ],
+    "citation_reasons": [
+      "The citation supports the claim about comparative advantage by explaining that countries specialize in goods where they have a lower opportunity cost, which aligns with the answer provided."
+    ],
+    "reason": "The answer accurately describes comparative advantage by stating it involves producing a good at a lower opportunity cost, which is fully supported by the cited evidence from the final context.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q20",
+    "answerable": true,
+    "status": "answered",
+    "search_calls": 1,
+    "citations": [
+      "openstax_econ_3e_p33_para_2"
+    ],
+    "citation_support": [
+      true
+    ],
+    "citation_reasons": [
+      "The citation is in the final context and the text supports the claim that Adam Smith referred to the property leading to positive social results as the 'invisible hand'."
+    ],
+    "reason": "The answer accurately identifies the term 'invisible hand' as used by Adam Smith in the provided context, fully aligning with the expected answer.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "q23",
+    "answerable": false,
+    "status": "abstain",
+    "search_calls": 1,
+    "citations": [],
+    "citation_support": [],
+    "citation_reasons": [],
+    "reason": "The answer correctly states that there is insufficient evidence to provide the requested information, aligning with the expected answer that the documents do not contain this information.",
+    "abstention_correct": true
+  },
+  {
+    "query_id": "q24",
+    "answerable": false,
+    "status": "abstain",
+    "search_calls": 1,
+    "citations": [],
+    "citation_support": [],
+    "citation_reasons": [],
+    "reason": "The answer correctly abstains from providing unsupported information, aligning with the expected answer that the documents do not contain the necessary information.",
+    "abstention_correct": true
+  }
+]

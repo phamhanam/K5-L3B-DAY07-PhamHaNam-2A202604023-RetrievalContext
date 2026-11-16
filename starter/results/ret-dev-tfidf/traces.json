@@ -1,0 +1,1023 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "How does the chapter define economics?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 2,
+        "evidence": "Economics is the study of how humans make decisions in the face of scarcity."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p15_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 15,
+        "text": "Trump for President of the United\nStates. Hopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to\nread the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It\nis essential that you learn more about how to read and use models in economics. Information Overload in the Information Age\nThe world provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the\nFarmer’s Almanac, along with the Weather Bureau of the U.S. Department of Agriculture, were the primary sources\nAmerican farmers used to determine when to plant and harvest their crops. Today, these decisions are driven by\ndata.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.1687867128242208,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p1_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 1,
+        "text": "FIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through\nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super\nhighway. (Credit: modification of \"Social Media Mixed Icons - Banner\" by Blogtrepreneur/Flickr, CC BY 2.0)\nChapter Objectives In this chapter, you will learn about:\n• What Is Economics, and Why Is It Important? • Microeconomics and Macroeconomics\n• How Economists Use Theories and Models to Understand Economic Issues\n• How Economies Can Be Organized: An Overview of Economic Systems\nIntroduction\nInformation Overload in the Information Age\nTo post or not to post?",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.15583685048455131,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p19_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 19,
+        "text": "FIGURE 2.1 Choices and Tradeoffs In general, the higher the degree, the higher the salary, so why aren’t more\npeople pursuing higher degrees? The short answer: choices and tradeoffs. (Credit: modification of \"College of\nDuPage Commencement 2018 107\" by COD Newsroom/Flickr, CC BY 2.0)\nChapter Objectives In this chapter, you will learn about:\n• How Individuals Make Choices Based on Their Budget Constraint\n• The Production Possibilities Frontier and Social Choices\n• Confronting Objections to the Economic Approach\nIntroduction to Choice in a World of Scarcity\nChoices ... to What Degree? Does your level of education impact earning? Let’s look at some data from the Bureau of Labor Statistics (BLS).",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.15301116674094625,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p1_para_0 | https://openstax.org/details/books/principles-economics-3e | page 1]\nFIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through\nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super\nhighway. (Credit: modification of \"Social Media Mixed Icons - Banner\" by Blogtrepreneur/Flickr, CC BY 2.0)\nChapter Objectives In this chapter, you will learn about:\n• What Is Economics, and Why Is It Important? • Microeconomics and Macroeconomics\n• How Economists Use Theories and Models to Understand Economic Issues\n• How Economies Can Be Organized: An Overview of Economic Systems\nIntroduction\nInformation Overload in the Information Age\nTo post or not to post?",
+    "context_ids": [
+      "openstax_econ_3e_p1_para_0"
+    ],
+    "context_chars": 776,
+    "elapsed_ms": 0.7169999880716205,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "How many distinct tasks did Adam Smith count in making a pin?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 4,
+        "evidence": "Smith counted 18 distinct tasks that different people"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p4_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 4,
+        "text": "To illustrate division of labor, Smith counted how many tasks went into making a pin: drawing out a piece of\nwire, cutting it to the right length, straightening it, putting a head on one end and a point on the other, and\npackaging pins for sale, to name just a few. Smith counted 18 distinct tasks that different people\nperformed—all for a pin, believe it or not! Modern businesses divide tasks as well.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.43737464612235155,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p4_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 4,
+        "text": "FIGURE 1.3 Adam Smith Adam Smith introduced the idea of dividing labor into discrete tasks. (Credit: \"Adam\nSmith\" by Cadell and Davies (1811), John Horsburgh (1828), or R.C. Bell (1872)/Wikimedia Commons, Public\nDomain)\nThe Division of and Specialization of Labor\nThe formal study of economics began when Adam Smith (1723–1790) published his famous book The Wealth\nof Nations in 1776. Many authors had written on economics in the centuries before Smith, but he was the first\nto address the subject in a comprehensive way. In the first chapter, Smith introduces the concept of division of\nlabor, which means that the way one produces a good or service is divided into a number of tasks that\ndifferent workers perform, instead of all the tasks being done by the same person.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.3535016327423309,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p5_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 5,
+        "text": "Why the Division of Labor Increases Production\nWhen we divide and subdivide the tasks involved with producing a good or service, workers and businesses\ncan produce a greater quantity of output. In his observations of pin factories, Smith noticed that one worker\nalone might make 20 pins in a day, but that a small business of 10 workers (some of whom would need to\ncomplete two or three of the 18 tasks involved with pin-making), could make 48,000 pins in a day. How can a\ngroup of workers, each specializing in certain tasks, produce so much more than the same number of workers\nwho try to produce the entire good or service by themselves? Smith offered three reasons.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.2847682285607336,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p4_para_1 | https://openstax.org/details/books/principles-economics-3e | page 4]\nTo illustrate division of labor, Smith counted how many tasks went into making a pin: drawing out a piece of\nwire, cutting it to the right length, straightening it, putting a head on one end and a point on the other, and\npackaging pins for sale, to name just a few. Smith counted 18 distinct tasks that different people\nperformed—all for a pin, believe it or not! Modern businesses divide tasks as well.",
+    "context_ids": [
+      "openstax_econ_3e_p4_para_1"
+    ],
+    "context_chars": 502,
+    "elapsed_ms": 0.7190000033006072,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "What does monetary policy involve?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 8,
+        "evidence": "which involves policies that affect bank lending, interest rates, and financial capital markets."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p8_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 8,
+        "text": "What causes\nfirms to hire more workers or to lay them off? Finally, what causes the economy to grow over the long term? We can determine an economy's macroeconomic health by examining a number of goals: growth in the\nstandard of living, low unemployment, and low inflation, to name the most important. How can we use\ngovernment macroeconomic policy to pursue these goals? A nation's central bank conducts monetary policy,\nwhich involves policies that affect bank lending, interest rates, and financial capital markets. For the United\nStates, this is the Federal Reserve. A nation's legislative body determines fiscal policy, which involves\ngovernment spending and taxes. For the United States, this is the Congress and the executive branch, which\noriginates the federal budget.",
+        "metadata": {
+          "section": "1.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.20143267548554852,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p7_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 7,
+        "text": "classmates, co-workers, or political candidates talking about economics, you will be able to distinguish\nbetween common sense and nonsense. You will find new ways of thinking about current events and about\npersonal and business decisions, as well as current events and politics. The study of economics does not dictate the answers, but it can illuminate the different choices. 1.2 Microeconomics and Macroeconomics\nLEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Describe microeconomics\n• Describe macroeconomics\n• Contrast monetary policy and fiscal policy\nEconomics is concerned with the well-being of all people, including those with jobs and those without jobs, as\nwell as those with high incomes and those with low incomes.",
+        "metadata": {
+          "section": "1.2",
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.16521151445546528,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p16_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 16,
+        "text": "on demand microeconomics the branch of economics that focuses on actions of particular agents within the economy, like households, workers, and business firms model see theory monetary policy policy that involves altering the level of interest rates, the availability of credit in the economy, and the extent of borrowing private enterprise system where private individuals or groups of private individuals own and operate the means of production (resources and businesses) scarcity when human wants for goods and services exceed the available supply specialization when workers or firms focus on particular tasks for which they are well-suited within the overall production process theory a representation of an object or situation that is simplified while including enough of the key features to",
+        "metadata": {
+          "section": "1.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.15136524158705916,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 0.40739995893090963,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "What do economists mean by the term opportunity cost?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 21,
+        "evidence": "Economists use the term opportunity cost to indicate what people must give up to obtain what they desire."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p21_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 21,
+        "text": "That is the true cost to Alphonso. The Concept of Opportunity Cost\nEconomists use the term opportunity cost to indicate what people must give up to obtain what they desire. The idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume\nsomething else. In short, opportunity cost is the value of the next best alternative. For Alphonso, the\nopportunity cost of a burger is the four bus tickets he would have to give up. He would decide whether or not to\nchoose the burger depending on whether the value of the burger exceeds the value of the forgone\nalternative—in this case, bus tickets. Since people must choose, they inevitably face tradeoffs in which they\nhave to give up things they desire to obtain other things they desire more.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.28012584834808474,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p35_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 35,
+        "text": "Individuals face the tradeoff of what\nquantities of goods and services to consume. The budget constraint, which is the frontier of the opportunity\nset, illustrates the range of available choices. The relative price of the choices determines the slope of the\nbudget constraint. Choices beyond the budget constraint are not affordable. Opportunity cost measures cost by what we forgo in exchange. Sometimes we can measure opportunity cost in\nmoney, but it is often useful to consider time as well, or to measure it in terms of the actual resources that we\nmust forfeit. Most economic decisions and tradeoffs are not all-or-nothing. Instead, they involve marginal analysis, which\nmeans they are about decisions on the margin, involving a little more or a little less.",
+        "metadata": {
+          "section": "2.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.17374664129647574,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p23_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 23,
+        "text": "Second, we define the slope as the price of\nbus tickets (whatever is on the horizontal axis in the graph) divided by the price of burgers (whatever is on the\nvertical axis), in this case $0.50/$2 = 0.25. If you want to determine the opportunity cost quickly, just divide the\ntwo prices. Identifying Opportunity Cost\nIn many cases, it is reasonable to refer to the opportunity cost as the price. If your cousin buys a new bicycle for\n$300, then $300 measures the amount of “other consumption” that he has forsaken. For practical purposes,\nthere may be no special need to identify the specific alternative product or products that he could have bought\nwith that $300, but sometimes the price as measured in dollars may not accurately capture the true\nopportunity cost.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.15505977572735724,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 0.6111999973654747,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "What does productive efficiency mean?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 29,
+        "evidence": "Productive efficiency means that, given the available inputs and technology, it is impossible to produce more"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p28_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 28,
+        "text": "An inefficient machine operates at high cost, while an\nefficient machine operates at lower cost, because it is not wasting energy or materials. An inefficient\norganization operates with long delays and high costs, while an efficient organization meets schedules, is\nfocused, and performs within budget. The production possibilities frontier can illustrate two kinds of efficiency: productive efficiency and allocative\nefficiency. Figure 2.4 illustrates these ideas using a production possibilities frontier between healthcare and\neducation. FIGURE 2.4 Productive and Allocative Efficiency Productive efficiency means it is impossible to produce more of\none good without decreasing the quantity that is produced of another good.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.2707306687071125,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p28_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 28,
+        "text": "Thus, the slope of the PPF is relatively steep\nnear the horizontal-axis intercept. In this way, the law of increasing opportunity cost produces the outward-\nbending shape of the production possibilities frontier. Productive Efficiency and Allocative Efficiency\nThe study of economics does not presume to tell a society what choice it should make along its production\npossibilities frontier. In a market-oriented economy with a democratic government, the choice will involve a\nmixture of decisions by individuals, firms, and government. However, economics can point out that some\nchoices are unambiguously better than others. This observation is based on the concept of efficiency. In\neveryday usage, efficiency refers to lack of waste.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.24350934751749648,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p28_para_4",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 28,
+        "text": "Thus, all choices along a given PPF like\nB, C, and D display productive efficiency, but R does not. Allocative efficiency means that the particular mix of goods\nbeing produced—that is, the specific choice along the production possibilities frontier—represents the allocation\nthat society most desires. 36 2 • Choice in a World of Scarcity\nAccess for free at openstax.org",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 4
+        },
+        "score": 0.22964037236040089,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p28_para_4 | https://openstax.org/details/books/principles-economics-3e | page 28]\nThus, all choices along a given PPF like\nB, C, and D display productive efficiency, but R does not. Allocative efficiency means that the particular mix of goods\nbeing produced—that is, the specific choice along the production possibilities frontier—represents the allocation\nthat society most desires. 36 2 • Choice in a World of Scarcity\nAccess for free at openstax.org",
+    "context_ids": [
+      "openstax_econ_3e_p28_para_4"
+    ],
+    "context_chars": 471,
+    "elapsed_ms": 0.39679999463260174,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "What term describes the situation in which people's desires for goods, services and resources are greater than what can be supplied?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 2,
+        "evidence": "Scarcity means that human wants for goods, services and resources exceed"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p35_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 35,
+        "text": "add additional increments of resources to producing a good or service, the marginal benefit from those additional increments will decline marginal analysis examination of decisions on the margin, meaning a little more or a little less from the status quo normative statement statement which describes how the world should be opportunity cost measures cost by what we give up/forfeit in exchange; opportunity cost measures the value of the forgone alternative opportunity set all possible combinations of consumption that someone can afford given the prices of goods and the individual’s income positive statement statement which describes the world as it is production possibilities frontier (PPF) a diagram that shows the productively efficient combinations of two products that an economy can",
+        "metadata": {
+          "section": "2.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.1785053910233908,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p29_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 29,
+        "text": "Allocative efficiency means that the particular combination of goods and services on the production\npossibility curve that a society produces represents the combination that society most desires. How to\ndetermine what a society desires can be a controversial question, and is usually a discussion in political\nscience, sociology, and philosophy classes as well as in economics. At its most basic, allocative efficiency\nmeans producers supply the quantity of each product that consumers demand. Only one of the productively\nefficient choices will be the allocatively efficient choice for society as a whole. Why Society Must Choose\nIn Welcome to Economics! we learned that every society faces the problem of scarcity, where limited resources\nconflict with unlimited needs and wants.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.17247161913367998,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p18_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 18,
+        "text": "14 . What are the three main goals of macroeconomics? 15 . How did John Maynard Keynes define economics? 16 . Are households primarily buyers or sellers in the goods and services market? In the labor market? 17 . Are firms primarily buyers or sellers in the goods and services market? In the labor market? 18 . What are the three ways that societies can organize themselves economically? 19 . What is globalization? How do you think it might have affected the economy over the past decade? Critical Thinking Questions\n20 . Suppose you have a team of two workers: one is a baker and one is a chef. Explain why the kitchen can\nproduce more meals in a given period of time if each worker specializes in what they do best than if each\nworker tries to do everything from appetizer to dessert. 21 .",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.17104321025814398,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 1.1514999787323177,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Which branch of economics studies the entire economy rather than its separate participants, and what broad issues does it focus on?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 7,
+        "evidence": "Macroeconomics looks at the economy as a whole."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p7_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 7,
+        "text": "Macroeconomics looks at the economy as a whole. It focuses on broad issues such as\ngrowth of production, the number of unemployed people, the inflationary increase in prices, government\ndeficits, and levels of exports and imports. Microeconomics and macroeconomics are not separate subjects,\nbut rather complementary perspectives on the overall subject of the economy. To understand why both microeconomic and macroeconomic perspectives are useful, consider the problem of\nstudying a biological ecosystem like a lake. One person who sets out to study the lake might focus on specific\ntopics: certain kinds of algae or plant life; the characteristics of particular fish or snails; or the trees\nsurrounding the lake.",
+        "metadata": {
+          "section": "1.2",
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.20531739403060614,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p16_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 16,
+        "text": "markets have increasingly crossed national borders goods and services market a market in which firms are sellers of what they produce and households are buyers gross domestic product (GDP) measure of the size of total production in an economy imports products (goods and services) made abroad and then sold domestically labor market the market in which households sell their labor as workers to business firms or other employers macroeconomics the branch of economics that focuses on broad issues such as growth, unemployment, inflation, and trade balance market interaction between potential buyers and sellers; a combination of demand and supply market economy an economy where economic decisions are decentralized, private individuals own resources, and businesses supply goods and services based",
+        "metadata": {
+          "section": "1.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.17097653360652293,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p16_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 16,
+        "text": "on demand microeconomics the branch of economics that focuses on actions of particular agents within the economy, like households, workers, and business firms model see theory monetary policy policy that involves altering the level of interest rates, the availability of credit in the economy, and the extent of borrowing private enterprise system where private individuals or groups of private individuals own and operate the means of production (resources and businesses) scarcity when human wants for goods and services exceed the available supply specialization when workers or firms focus on particular tasks for which they are well-suited within the overall production process theory a representation of an object or situation that is simplified while including enough of the key features to",
+        "metadata": {
+          "section": "1.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.14124035436985383,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 1.1501999688334763,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Why does a factory making 50,000 cars a year have a lower cost per car than one making only 100?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 5,
+        "evidence": "However, if a factory produces 50,000 cars each year, then it can set up an assembly line with huge machines"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p5_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 5,
+        "text": "A similar pattern often operates within businesses. In many cases, a business that focuses on one or a few\nproducts (sometimes called its “core competency”) is more successful than firms that try to make a wide range\nof products. Third, specialization allows businesses to take advantage of economies of scale, which means that for many\ngoods, as the level of production increases, the average cost of producing each individual unit declines. For\nexample, if a factory produces only 100 cars per year, each car will be quite expensive to make on average. However, if a factory produces 50,000 cars each year, then it can set up an assembly line with huge machines\nand workers performing specialized tasks, and the average cost of production per car will be lower.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.4344907646834168,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p24_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 24,
+        "text": "In some cases, realizing the opportunity cost can alter behavior. Imagine, for example, that you spend $8 on\nlunch every day at work. You may know perfectly well that bringing a lunch from home would cost only $3 a\nday, so the opportunity cost of buying lunch at the restaurant is $5 each day (that is, the $8 buying lunch costs\nminus the $3 your lunch from home would cost). Five dollars each day does not seem to be that much. However, if you project what that adds up to in a year—250 days a year × $5 per day equals $1,250, the cost,\nperhaps, of a decent vacation. If you describe the opportunity cost as “a nice vacation” instead of “$5 a day,”\nyou might make different choices.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.1327310079787805,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p36_para_4",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 36,
+        "text": "Explain why individuals make choices that are directly on the budget constraint, rather than inside the\nbudget constraint or outside it. 10 . What is comparative advantage? 11 . What does a production possibilities frontier illustrate? 12 . Why is a production possibilities frontier typically drawn as a curve, rather than a straight line? 13 . Explain why societies cannot make a choice above their production possibilities frontier and should not\n44 2 • Self-Check Questions\nAccess for free at openstax.org",
+        "metadata": {
+          "section": "2.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 4
+        },
+        "score": 0.119155774452628,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p24_para_2 | https://openstax.org/details/books/principles-economics-3e | page 24]\nIn some cases, realizing the opportunity cost can alter behavior. Imagine, for example, that you spend $8 on\nlunch every day at work. You may know perfectly well that bringing a lunch from home would cost only $3 a\nday, so the opportunity cost of buying lunch at the restaurant is $5 each day (that is, the $8 buying lunch costs\nminus the $3 your lunch from home would cost). Five dollars each day does not seem to be that much. However, if you project what that adds up to in a year—250 days a year × $5 per day equals $1,250, the cost,\nperhaps, of a decent vacation. If you describe the opportunity cost as “a nice vacation” instead of “$5 a day,”\nyou might make different choices.",
+    "context_ids": [
+      "openstax_econ_3e_p24_para_2"
+    ],
+    "context_chars": 784,
+    "elapsed_ms": 0.9605000377632678,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Which transportation improvements helped drive globalization by cutting the expense of moving goods?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 14,
+        "evidence": "air cargo have driven down transportation costs."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p13_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 13,
+        "text": "Globalization has occurred for a number of reasons. Improvements in shipping, as illustrated by the container\n1.4 • How To Organize Economies: An Overview of Economic Systems 21",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.17643825731779952,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p13_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 13,
+        "text": "The question of how to organize economic institutions is typically not a straightforward choice between all\nmarket or all government, but instead involves a balancing act over the appropriate combination of market\nfreedom and government rules. FIGURE 1.10 Globalization Cargo ships are one mode of transportation for shipping goods in the global economy. (Credit: \"Cargo Ship\" by Raul Valdez/Flickr Creative Commons, CC BY 2.0)\nThe Rise of Globalization\nRecent decades have seen a trend toward globalization, which is the expanding cultural, political, and\neconomic connections between people around the world. One measure of this is the increased buying and\nselling of goods, services, and assets across national borders—in other words, international trade and financial\ncapital flows.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.15560791926765202,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p29_para_4",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 29,
+        "text": "In addition, over time, improvements in\ntechnology can increase the level of production with given resources, and hence push out the PPF. However, improvements in productive efficiency take time to discover and implement, and economic growth\nhappens only gradually. Thus, a society must choose between tradeoffs in the present. For government, this\nprocess often involves trying to identify where additional spending could do the most good and where\nreductions in spending would do the least harm. At the individual and firm level, the market economy\ncoordinates a process in which firms seek to produce goods and services in the quantity, quality, and price that\npeople want.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 4
+        },
+        "score": 0.12277235165980535,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p13_para_3 | https://openstax.org/details/books/principles-economics-3e | page 13]\nGlobalization has occurred for a number of reasons. Improvements in shipping, as illustrated by the container\n1.4 • How To Organize Economies: An Overview of Economic Systems 21",
+    "context_ids": [
+      "openstax_econ_3e_p13_para_3"
+    ],
+    "context_chars": 278,
+    "elapsed_ms": 0.8004999835975468,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Why should money that has already been spent and cannot be recovered be left out of current choices?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 25,
+        "evidence": "that were incurred in the past and cannot be recovered, should not affect the current decision."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p35_para_4",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 35,
+        "text": "The law of diminishing\nmarginal utility points out that as a person receives more of something—whether it is a specific good or\nanother resource—the additional marginal gains tend to become smaller. Because sunk costs occurred in the\npast and cannot be recovered, they should be disregarded in making current decisions. 2.2 The Production Possibilities Frontier and Social Choices\nA production possibilities frontier defines the set of choices society faces for the combinations of goods and\nservices it can produce given the resources and the technology that are available. The shape of the PPF is\ntypically curved outward, rather than straight. Choices outside the PPF are unattainable and choices inside the\n2 • Key Terms 43",
+        "metadata": {
+          "section": "2.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 4
+        },
+        "score": 0.23720982819256692,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p25_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 25,
+        "text": "Thus, the budget constraint framework assumes that sunk costs, which are costs\nthat were incurred in the past and cannot be recovered, should not affect the current decision. Consider the case of Selena, who pays $8 to see a movie, but after watching the film for 30 minutes, she knows\nthat it is truly terrible. Should she stay and watch the rest of the movie because she paid for the ticket, or\nshould she leave? The money she spent is a sunk cost, and unless the theater manager is sympathetic, Selena\nwill not get a refund. However, staying in the movie still means paying an opportunity cost in time. Her choice\nis whether to spend the next 90 minutes suffering through a cinematic disaster or to do\nsomething—anything—else.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.1767478004476676,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p25_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 25,
+        "text": "The lesson of sunk costs is to forget about the money and time that is irretrievably\ngone and instead to focus on the marginal costs and benefits of current and future options. For people and firms alike, dealing with sunk costs can be frustrating. It often means admitting an earlier error\nin judgment. Many firms, for example, find it hard to give up on a new product that is doing poorly because\nthey spent so much money in creating and launching the product. However, the lesson of sunk costs is to\nignore them and make decisions based on what will happen in the future. From a Model with Two Goods to One of Many Goods\nThe budget constraint diagram containing just two goods, like most models used in this book, is not realistic.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.12601883991237334,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 0.9305999847128987,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Under what condition is a combination of burgers and bus tickets unaffordable for Alphonso?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 21,
+        "evidence": "point outside the constraint is not affordable, because it would cost more money than Alphonso has in his"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p21_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 21,
+        "text": "Alternatively, if Alphonso spends all his money on bus\ntickets, he can afford 20 per week. ($10 per week/$0.50 per bus ticket = 20 bus tickets per week.) Then,\nhowever, he will not be able to afford any burgers. Point F shows this alternative choice (20 bus tickets and zero\nburgers). If we connect all the points between A and F, we get Alphonso's budget constraint. This indicates all the\ncombination of burgers and bus tickets Alphonso can afford, given the price of the two goods and his budget\namount. If Alphonso is like most people, he will choose some combination that includes both bus tickets and burgers. That is, he will choose some combination on the budget constraint that is between points A and F.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.45233993790938226,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p21_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 21,
+        "text": "Every point\non (or inside) the constraint shows a combination of burgers and bus tickets that Alphonso can afford. Any\npoint outside the constraint is not affordable, because it would cost more money than Alphonso has in his\nbudget. The budget constraint clearly shows the tradeoff Alphonso faces in choosing between burgers and bus tickets. Suppose he is currently at point D, where he can afford 12 bus tickets and two burgers. What would it cost\nAlphonso for one more burger? It would be natural to answer $2, but that’s not the way economists think. Instead they ask, how many bus tickets would Alphonso have to give up to get one more burger, while staying\nwithin his budget? Since bus tickets cost 50 cents, Alphonso would have to give up four to afford one more\nburger.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.42741348128206114,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p21_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 21,
+        "text": "FIGURE 2.2 The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier Each point on the\nbudget constraint represents a combination of burgers and bus tickets whose total cost adds up to Alphonso’s\nbudget of $10. The relative price of burgers and bus tickets determines the slope of the budget constraint. All along\nthe budget set, giving up one burger means gaining four bus tickets. The vertical axis in the figure shows burger purchases and the horizontal axis shows bus ticket purchases. If\nAlphonso spends all his money on burgers, he can afford five per week. ($10 per week/$2 per burger = 5\nburgers per week.) However, if he does this, he will not be able to afford any bus tickets. Point A in the figure\nshows the choice (zero bus tickets and five burgers).",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.3955465533878414,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 0.7693000370636582,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "For how long would a rational consumer keep purchasing additional units of a product?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 25,
+        "evidence": "A rational consumer would only purchase additional units of some product as long as the marginal utility"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p25_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 25,
+        "text": "marginal utility from those last few servings would not be very high. Similarly, most workers do not say: “I\nenjoy leisure, so I’ll never work.” Instead, workers recognize that even though some leisure is very nice, a\ncombination of all leisure and no income is not so attractive. The budget constraint framework suggests that\nwhen people make choices in a world of scarcity, they will use marginal analysis and think about whether they\nwould prefer a little more or a little less. A rational consumer would only purchase additional units of some product as long as the marginal utility\nexceeds the opportunity cost. Suppose Alphonso moves down his budget constraint from Point A to Point B to\nPoint C and further.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.24370588699190748,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p24_para_5",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 24,
+        "text": "However, later bus rides might provide much less utility—they may only serve to kill\ntime on a rainy day. Similarly, the first burger that Alphonso chooses to buy may be on a day when he missed\nbreakfast and is ravenously hungry. However, if Alphonso has multiple burgers every day, the last few burgers\nmay taste pretty boring. The general pattern that consumption of the first few units of any good tends to bring\na higher level of utility to a person than consumption of later units is a common pattern. Economists refer to\nthis pattern as the law of diminishing marginal utility, which means that as a person receives more of a good,\nthe additional (or marginal) utility from each additional unit of the good declines.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 5
+        },
+        "score": 0.13852971507587578,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p36_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 36,
+        "text": "What are the similarities between a consumer’s budget constraint and society’s production possibilities\nfrontier, not just graphically but analytically? 5 . Individuals may not act in the rational, calculating way described by the economic model of decision\nmaking, measuring utility and costs at the margin, but can you make a case that they behave\napproximately that way? 6 . Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or\nnormative statement? 7 . Would a research study on the effects of soft drink consumption on children’s cognitive development be a\npositive or normative statement? Review Questions\n8 . Explain why scarcity leads to tradeoffs. 9 .",
+        "metadata": {
+          "section": "2.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.13700190776656415,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 0.7504000095650554,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "In what situations may an economy be able to expand its consumption of all goods?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 29,
+        "evidence": "Every economy faces two situations in which it may be able to expand consumption of all goods."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p29_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 29,
+        "text": "The production possibilities curve illustrates the choices involved in\nthis dilemma. Every economy faces two situations in which it may be able to expand consumption of all goods. In the first\ncase, a society may discover that it has been using its resources inefficiently, in which case by improving\nefficiency and producing on the production possibilities frontier, it can have more of all goods (or at least more\nof some and less of none). In the second case, as resources grow over a period of years (e.g., more labor and\nmore capital), the economy grows. As it does, the production possibilities frontier for a society will tend to shift\noutward and society will be able to afford more of all goods.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.40461073565102107,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p8_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 8,
+        "text": "prices a firm will charge? What determines how a firm will produce its products? What determines how many\nworkers it will hire? How will a firm finance its business? When will a firm decide to expand, downsize, or even\nclose? In the microeconomics part of this book, we will learn about the theory of consumer behavior, the\ntheory of the firm, how markets for labor and other resources work, and how markets sometimes fail to work\nproperly. Macroeconomics\nWhat determines the level of economic activity in a society? In other words, what determines how many goods\nand services a nation actually produces? What determines how many jobs are available in an economy? What\ndetermines a nation’s standard of living? What causes the economy to speed up or slow down?",
+        "metadata": {
+          "section": "1.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.17509900498526917,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p34_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 34,
+        "text": "For these people, they are unwilling or unable to make the tradeoff of forfeiting years of\nworking, and earning an income, to earn a degree. Finally, the statistics we introduced at the start of the chapter reveal information about intertemporal choices. An\neconomist might say that people choose not to obtain a college degree because they may have to borrow money to\nattend college, and the interest they have to pay on that loan in the future will affect their decisions today. Also, it\ncould be that some people have a preference for current consumption over future consumption, so they choose to\nwork now at a lower salary and consume now, rather than postponing that consumption until after they graduate\ncollege.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.14355177390244764,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "",
+    "context_ids": [],
+    "context_chars": 0,
+    "elapsed_ms": 0.8473999914713204,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q18",
+    "split": "dev",
+    "question": "In Section 1.2, what two types of policies does macroeconomics use to pursue its goals?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 17,
+        "evidence": "Macroeconomics has two types of policies for pursuing these goals: monetary"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p17_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 17,
+        "text": "1.2 Microeconomics and Macroeconomics\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living,\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary\npolicy and fiscal policy. 1.3 How Economists Use Theories and Models to Understand Economic Issues\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a\ntool for determining the answer.",
+        "metadata": {
+          "section": "1.2",
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.2988926536972294,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p8_para_1",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 8,
+        "text": "What causes\nfirms to hire more workers or to lay them off? Finally, what causes the economy to grow over the long term? We can determine an economy's macroeconomic health by examining a number of goals: growth in the\nstandard of living, low unemployment, and low inflation, to name the most important. How can we use\ngovernment macroeconomic policy to pursue these goals? A nation's central bank conducts monetary policy,\nwhich involves policies that affect bank lending, interest rates, and financial capital markets. For the United\nStates, this is the Federal Reserve. A nation's legislative body determines fiscal policy, which involves\ngovernment spending and taxes. For the United States, this is the Congress and the executive branch, which\noriginates the federal budget.",
+        "metadata": {
+          "section": "1.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.18336669135081005,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p7_para_5",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 7,
+        "text": "What determines the products, and how many of each, a firm will produce and sell? What determines the\n1.2 • Microeconomics and Macroeconomics 15",
+        "metadata": {
+          "section": "1.2",
+          "strategy": "by_paragraph",
+          "chunk_index": 5
+        },
+        "score": 0.14998492043193862,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p7_para_5 | https://openstax.org/details/books/principles-economics-3e | page 7]\nWhat determines the products, and how many of each, a firm will produce and sell? What determines the\n1.2 • Microeconomics and Macroeconomics 15",
+    "context_ids": [
+      "openstax_econ_3e_p7_para_5"
+    ],
+    "context_chars": 243,
+    "elapsed_ms": 0.8543999865651131,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q19",
+    "split": "dev",
+    "question": "In Section 1.4, which type of economic system is described as the oldest?",
+    "strategy": "tfidf",
+    "top_k": 3,
+    "budget_chars": 800,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 10,
+        "evidence": "the oldest economic system and is used in parts of Asia, Africa, and South America."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p10_para_3",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 10,
+        "text": "Who organizes and\ncoordinates this system? Who ensures that, for example, the number of televisions a society provides is the\nsame as the amount it needs and wants? Who ensures that the right number of employees work in the\nelectronics industry? Who ensures that televisions are produced in the best way possible? How does it all get\ndone? There are at least three ways that societies organize an economy. The first is the traditional economy, which is\nthe oldest economic system and is used in parts of Asia, Africa, and South America. Traditional economies\norganize their economic affairs the way they have always done (i.e., tradition). Occupations stay in the family. Most families are farmers who grow the crops using traditional methods. What you produce is what you\nconsume.",
+        "metadata": {
+          "section": "1.4",
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 0.20142426968458296,
+        "strategy": "tfidf",
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p10_para_2",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 10,
+        "text": "We explain both micro and\nmacroeconomics in terms of theories and models. The most well-known theories are probably those of supply\nand demand, but you will learn a number of others. 1.4 How To Organize Economies: An Overview of Economic Systems\nLEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Contrast traditional economies, command economies, and market economies\n• Explain gross domestic product (GDP)\n• Assess the importance and effects of globalization\nThink about what a complex system a modern economy is. It includes all production of goods and services, all\nbuying and selling, all employment. The economic life of every individual is interrelated, at least to a small\nextent, with the economic lives of thousands or even millions of other individuals.",
+        "metadata": {
+          "section": "1.4",
+          "strategy": "by_paragraph",
+          "chunk_index": 2
+        },
+        "score": 0.1835005768004733,
+        "strategy": "tfidf",
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p23_para_0",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 23,
+        "text": "Point Quantity of Burgers (at $2) Quantity of Bus Tickets (at 50 cents)\nA 5 0\nB 4 4\nC 3 8\nD 2 12\nE 1 16\nF 0 20\nTABLE 2.1\nStep 7. Notice that the slope of a budget constraint always shows the opportunity cost of the good which is on\nthe horizontal axis. For Alphonso, the slope is −0.25, indicating that for every bus ticket he buys, he must give up\n1/4 burger. To phrase it differently, for every four tickets he buys, Alphonso must give up 1 burger. There are two important observations here. First, the algebraic sign of the slope is negative, which means that\nthe only way to get more of one good is to give up some of the other.",
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.16255624323733397,
+        "strategy": "tfidf",
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p23_para_0 | https://openstax.org/details/books/principles-economics-3e | page 23]\nPoint Quantity of Burgers (at $2) Quantity of Bus Tickets (at 50 cents)\nA 5 0\nB 4 4\nC 3 8\nD 2 12\nE 1 16\nF 0 20\nTABLE 2.1\nStep 7. Notice that the slope of a budget constraint always shows the opportunity cost of the good which is on\nthe horizontal axis. For Alphonso, the slope is −0.25, indicating that for every bus ticket he buys, he must give up\n1/4 burger. To phrase it differently, for every four tickets he buys, Alphonso must give up 1 burger. There are two important observations here. First, the algebraic sign of the slope is negative, which means that\nthe only way to get more of one good is to give up some of the other.",
+    "context_ids": [
+      "openstax_econ_3e_p23_para_0"
+    ],
+    "context_chars": 733,
+    "elapsed_ms": 0.7916999747976661,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  }
+]

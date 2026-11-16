@@ -1,0 +1,342 @@
+[
+  {
+    "query_id": "q06",
+    "split": "test",
+    "question": "What distinction do philosophers draw regarding positive statements?",
+    "strategy": "rerank",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 31,
+        "evidence": "Philosophers draw a distinction between positive statements, which describe the world as it is, and"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p31_para_5",
+        "text": "Second Objection: People, Firms, and Society Should Not Act This Way\nThe economics approach portrays people as self-interested. For some critics of this approach, even if self-\ninterest is an accurate description of how people behave, these behaviors are not moral. Instead, the critics\nargue that people should be taught to care more deeply about others. Economists offer several answers to\nthese concerns. First, economics is not a form of moral instruction. Rather, it seeks to describe economic behavior as it actually\nexists. Philosophers draw a distinction between positive statements, which describe the world as it is, and\nnormative statements, which describe how the world should be. Positive statements are factual. They may be\ntrue or false, but we can test them, at least in principle.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 31,
+        "metadata": {
+          "section": "2.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 5
+        },
+        "score": 5.601578712463379,
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p36_para_1",
+        "text": "Total production can increase if countries specialize in the goods in which they\nhave comparative advantage and trade some of their production for the remaining goods. 2.3 Confronting Objections to the Economic Approach\nThe economic way of thinking provides a useful approach to understanding human behavior. Economists\nmake the careful distinction between positive statements, which describe the world as it is, and normative\nstatements, which describe how the world should be. Even when economics analyzes the gains and losses from\nvarious events or policies, and thus draws normative conclusions about how the world should be, the analysis\nof economics is rooted in a positive analysis of how people, firms, and governments actually behave, not how\nthey should behave. Self-Check Questions\n1 .",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 36,
+        "metadata": {
+          "section": "2.3",
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 2.436185121536255,
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p37_para_0",
+        "text": "make a choice below it. 14 . What are diminishing marginal returns? 15 . What is productive efficiency? Allocative efficiency? 16 . What is the difference between a positive and a normative statement? 17 . Is the economic model of decision-making intended as a literal description of how individuals, firms, and\nthe governments actually make decisions? 18 . What are four responses to the claim that people should not behave in the way described in this chapter? Critical Thinking Questions\n19 . Suppose Alphonso’s town raises the price of bus tickets from $0.50 to $1 and the price of burgers rises\nfrom $2 to $4. Why is the opportunity cost of bus tickets unchanged? Suppose Alphonso’s weekly spending\nmoney increases from $10 to $20. How is his budget constraint affected from all three changes?",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 37,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": -2.0973141193389893,
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p31_para_5 | https://openstax.org/details/books/principles-economics-3e | page 31]\nSecond Objection: People, Firms, and Society Should Not Act This Way\nThe economics approach portrays people as self-interested. For some critics of this approach, even if self-\ninterest is an accurate description of how people behave, these behaviors are not moral. Instead, the critics\nargue that people should be taught to care more deeply about others. Economists offer several answers to\nthese concerns. First, economics is not a form of moral instruction. Rather, it seeks to describe economic behavior as it actually\nexists. Philosophers draw a distinction between positive statements, which describe the world as it is, and\nnormative statements, which describe how the world should be. Positive statements are factual. They may be\ntrue or false, but we can test them, at least in principle.\n\n[openstax_econ_3e_p36_para_1 | https://openstax.org/details/books/principles-economics-3e | page 36]\nTotal production can increase if countries specialize in the goods in which they\nhave comparative advantage and trade some of their production for the remaining goods. 2.3 Confronting Objections to the Economic Approach\nThe economic way of thinking provides a useful approach to understanding human behavior. Economists\nmake the careful distinction between positive statements, which describe the world as it is, and normative\nstatements, which describe how the world should be. Even when economics analyzes the gains and losses from\nvarious events or policies, and thus draws normative conclusions about how the world should be, the analysis\nof economics is rooted in a positive analysis of how people, firms, and governments actually behave, not how\nthey should behave. Self-Check Questions\n1 .\n\n[openstax_econ_3e_p37_para_0 | https://openstax.org/details/books/principles-economics-3e | page 37]\nmake a choice below it. 14 . What are diminishing marginal returns? 15 . What is productive efficiency? Allocative efficiency? 16 . What is the difference between a positive and a normative statement? 17 . Is the economic model of decision-making intended as a literal description of how individuals, firms, and\nthe governments actually make decisions? 18 . What are four responses to the claim that people should not behave in the way described in this chapter? Critical Thinking Questions\n19 . Suppose Alphonso’s town raises the price of bus tickets from $0.50 to $1 and the price of burgers rises\nfrom $2 to $4. Why is the opportunity cost of bus tickets unchanged? Suppose Alphonso’s weekly spending\nmoney increases from $10 to $20. How is his budget constraint affected from all three changes?",
+    "context_ids": [
+      "openstax_econ_3e_p31_para_5",
+      "openstax_econ_3e_p36_para_1",
+      "openstax_econ_3e_p37_para_0"
+    ],
+    "context_chars": 2698,
+    "elapsed_ms": 733.7245999951847,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q12",
+    "split": "test",
+    "question": "In an economy where economic decisions come down from a ruling authority, who decides what is produced and what prices are charged?",
+    "strategy": "rerank",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 11,
+        "evidence": "In a command economy, the government decides what goods and services will be produced and what prices it"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p11_para_1",
+        "text": "In a command economy, the government decides what goods and services will be produced and what prices it\nwill charge for them. The government decides what methods of production to use and sets wages for workers. The government provides many necessities like healthcare and education for free. Currently, Cuba and North\nKorea have command economies. FIGURE 1.9 A Market Economy Nothing says “market” more than The New York Stock Exchange. (Credit: work by\nErik Drost/Flickr Creative Commons, CC BY 2.0)\nAlthough command economies have a very centralized structure for economic decisions, market economies\nhave a very decentralized structure. A market is an institution that brings together buyers and sellers of goods\nor services, who may be either individuals or businesses.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 11,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 2.0864782333374023,
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p16_para_0",
+        "text": "Key Terms circular flow diagram a diagram that views the economy as consisting of households and firms interacting in a goods and services market and a labor market command economy an economy where economic decisions are passed down from government authority and where the government owns the resources division of labor the way in which different workers divide required tasks to produce a good or service economics the study of how humans make choices under conditions of scarcity economies of scale when the average cost of producing each individual unit declines as total output increases exports products (goods and services) made domestically and sold abroad fiscal policy economic policies that involve government spending and taxes globalization the trend in which buying and selling in",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 16,
+        "metadata": {
+          "section": "1.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 0.5268359780311584,
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p13_para_1",
+        "text": "At a minimum, these laws govern matters like safeguarding private property against theft, protecting people\nfrom violence, enforcing legal contracts, preventing fraud, and collecting taxes. Conversely, even the most\ncommand-oriented economies operate using markets. How else would buying and selling occur? The\ngovernment heavily regulates decisions of what to produce and prices to charge. Heavily regulated economies\noften have underground economies (or black markets), which are markets where the buyers and sellers make\ntransactions without the government’s approval.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 13,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": -2.049860954284668,
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p11_para_1 | https://openstax.org/details/books/principles-economics-3e | page 11]\nIn a command economy, the government decides what goods and services will be produced and what prices it\nwill charge for them. The government decides what methods of production to use and sets wages for workers. The government provides many necessities like healthcare and education for free. Currently, Cuba and North\nKorea have command economies. FIGURE 1.9 A Market Economy Nothing says “market” more than The New York Stock Exchange. (Credit: work by\nErik Drost/Flickr Creative Commons, CC BY 2.0)\nAlthough command economies have a very centralized structure for economic decisions, market economies\nhave a very decentralized structure. A market is an institution that brings together buyers and sellers of goods\nor services, who may be either individuals or businesses.\n\n[openstax_econ_3e_p16_para_0 | https://openstax.org/details/books/principles-economics-3e | page 16]\nKey Terms circular flow diagram a diagram that views the economy as consisting of households and firms interacting in a goods and services market and a labor market command economy an economy where economic decisions are passed down from government authority and where the government owns the resources division of labor the way in which different workers divide required tasks to produce a good or service economics the study of how humans make choices under conditions of scarcity economies of scale when the average cost of producing each individual unit declines as total output increases exports products (goods and services) made domestically and sold abroad fiscal policy economic policies that involve government spending and taxes globalization the trend in which buying and selling in\n\n[openstax_econ_3e_p13_para_1 | https://openstax.org/details/books/principles-economics-3e | page 13]\nAt a minimum, these laws govern matters like safeguarding private property against theft, protecting people\nfrom violence, enforcing legal contracts, preventing fraud, and collecting taxes. Conversely, even the most\ncommand-oriented economies operate using markets. How else would buying and selling occur? The\ngovernment heavily regulates decisions of what to produce and prices to charge. Heavily regulated economies\noften have underground economies (or black markets), which are markets where the buyers and sellers make\ntransactions without the government’s approval.",
+    "context_ids": [
+      "openstax_econ_3e_p11_para_1",
+      "openstax_econ_3e_p16_para_0",
+      "openstax_econ_3e_p13_para_1"
+    ],
+    "context_chars": 2446,
+    "elapsed_ms": 524.9699999694712,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Which countries were left out of the 2016 Index of Economic Freedom ranking, and why?",
+    "strategy": "rerank",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 12,
+        "evidence": "made judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria,"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p12_para_3",
+        "text": "Most Economic Freedom Least Economic Freedom\n1. Hong Kong 167. Timor-Leste\n2. Singapore 168. Democratic Republic of Congo\n3. New Zealand 169. Argentina\n4. Switzerland 170. Equatorial Guinea\n5. Australia 171. Iran\n6. Canada 172. Republic of Congo\n7. Chile 173. Eritrea\n8. Ireland 174. Turkmenistan\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFoundation, 2016 Index of Economic Freedom, Country\nRankings, http://www.heritage.org/index/ranking)\nCLEAR IT UP\n20 1 • Welcome to Economics! Access for free at openstax.org",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 12,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 3
+        },
+        "score": 5.946197509765625,
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p12_para_1",
+        "text": "Each year, researchers at\nthe Heritage Foundation and the Wall Street Journal look at 50 different categories of economic freedom for\ncountries around the world. They give each nation a score based on the extent of economic freedom in each\ncategory. Note that while the Heritage Foundation/WSJ index is widely cited by an array of scholars and\npublications, it should be regarded as only one viewpoint. Some experts indicate that the index’s category choices\nand scores are politically biased. However, the index and others like it provide a useful resource for critical\ndiscussion of economic freedom. The 2016 Heritage Foundation’s Index of Economic Freedom report ranked 178 countries around the world: Table\n1.1 lists some examples of the most free and the least free countries.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 12,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 5.234703063964844,
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p13_para_0",
+        "text": "Most Economic Freedom Least Economic Freedom\n9. Estonia 175. Zimbabwe\n10. United Kingdom 176. Venezuela\n11. United States 177. Cuba\n12. Denmark 178. North Korea\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFoundation, 2016 Index of Economic Freedom, Country\nRankings, http://www.heritage.org/index/ranking)\nRegulations: The Rules of the Game\nMarkets and government regulations are always entangled. There is no such thing as an absolutely free\nmarket. Regulations always define the “rules of the game” in the economy. Economies that are primarily\nmarket-oriented have fewer regulations—ideally just enough to maintain an even playing field for participants.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 13,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 4.825878620147705,
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p12_para_3 | https://openstax.org/details/books/principles-economics-3e | page 12]\nMost Economic Freedom Least Economic Freedom\n1. Hong Kong 167. Timor-Leste\n2. Singapore 168. Democratic Republic of Congo\n3. New Zealand 169. Argentina\n4. Switzerland 170. Equatorial Guinea\n5. Australia 171. Iran\n6. Canada 172. Republic of Congo\n7. Chile 173. Eritrea\n8. Ireland 174. Turkmenistan\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFoundation, 2016 Index of Economic Freedom, Country\nRankings, http://www.heritage.org/index/ranking)\nCLEAR IT UP\n20 1 • Welcome to Economics! Access for free at openstax.org\n\n[openstax_econ_3e_p12_para_1 | https://openstax.org/details/books/principles-economics-3e | page 12]\nEach year, researchers at\nthe Heritage Foundation and the Wall Street Journal look at 50 different categories of economic freedom for\ncountries around the world. They give each nation a score based on the extent of economic freedom in each\ncategory. Note that while the Heritage Foundation/WSJ index is widely cited by an array of scholars and\npublications, it should be regarded as only one viewpoint. Some experts indicate that the index’s category choices\nand scores are politically biased. However, the index and others like it provide a useful resource for critical\ndiscussion of economic freedom. The 2016 Heritage Foundation’s Index of Economic Freedom report ranked 178 countries around the world: Table\n1.1 lists some examples of the most free and the least free countries.\n\n[openstax_econ_3e_p13_para_0 | https://openstax.org/details/books/principles-economics-3e | page 13]\nMost Economic Freedom Least Economic Freedom\n9. Estonia 175. Zimbabwe\n10. United Kingdom 176. Venezuela\n11. United States 177. Cuba\n12. Denmark 178. North Korea\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage\nFoundation, 2016 Index of Economic Freedom, Country\nRankings, http://www.heritage.org/index/ranking)\nRegulations: The Rules of the Game\nMarkets and government regulations are always entangled. There is no such thing as an absolutely free\nmarket. Regulations always define the “rules of the game” in the economy. Economies that are primarily\nmarket-oriented have fewer regulations—ideally just enough to maintain an even playing field for participants.",
+    "context_ids": [
+      "openstax_econ_3e_p12_para_3",
+      "openstax_econ_3e_p12_para_1",
+      "openstax_econ_3e_p13_para_0"
+    ],
+    "context_chars": 2283,
+    "elapsed_ms": 434.6085000433959,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "When is a country said to have a comparative advantage in a good?",
+    "strategy": "rerank",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 30,
+        "evidence": "When a country can produce a good at a lower opportunity cost than another country, we say that this country"
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p30_para_1",
+        "text": "Conversely, the\nopportunity cost of sugar cane is lower in Brazil. The U.S. has comparative advantage in wheat and Brazil has\ncomparative advantage in sugar cane. When a country can produce a good at a lower opportunity cost than another country, we say that this country\nhas a comparative advantage in that good. Comparative advantage is not the same as absolute advantage,\nwhich is when a country can produce more of a good. In our example, Brazil has an absolute advantage in\nsugar cane and the U.S. has an absolute advantage in wheat. One can easily see this with a simple observation\nof the extreme production points in the PPFs of the two countries. If Brazil devoted all of its resources to\nproducing wheat, it would be producing at point A.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 30,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 7.293332099914551,
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p29_para_5",
+        "text": "However, for both the government and the market economy in the short term, increases in\nproduction of one good typically mean offsetting decreases somewhere else in the economy. The PPF and Comparative Advantage\nWhile every society must choose how much of each good or service it should produce, it does not need to\nproduce every single good it consumes. Often how much of a good a country decides to produce depends on\nhow expensive it is to produce it versus buying it from a different country. As we saw earlier, the curvature of a\ncountry’s PPF gives us information about the tradeoff between devoting resources to producing one good\nversus another.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 29,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 5
+        },
+        "score": 3.0485939979553223,
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p35_para_0",
+        "text": "Key Terms allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that someone can afford, given the prices of goods, when all income is spent; the boundary of the opportunity set comparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a country has a lower opportunity cost of production invisible hand Adam Smith's concept that individuals' self-interested behavior can lead to positive social outcomes law of diminishing marginal utility as we consume more of a good or service, the utility we get from additional units of the good or service tends to become smaller than what we received from earlier units law of diminishing returns as we",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 35,
+        "metadata": {
+          "section": "2.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 2.8300461769104004,
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p30_para_1 | https://openstax.org/details/books/principles-economics-3e | page 30]\nConversely, the\nopportunity cost of sugar cane is lower in Brazil. The U.S. has comparative advantage in wheat and Brazil has\ncomparative advantage in sugar cane. When a country can produce a good at a lower opportunity cost than another country, we say that this country\nhas a comparative advantage in that good. Comparative advantage is not the same as absolute advantage,\nwhich is when a country can produce more of a good. In our example, Brazil has an absolute advantage in\nsugar cane and the U.S. has an absolute advantage in wheat. One can easily see this with a simple observation\nof the extreme production points in the PPFs of the two countries. If Brazil devoted all of its resources to\nproducing wheat, it would be producing at point A.\n\n[openstax_econ_3e_p29_para_5 | https://openstax.org/details/books/principles-economics-3e | page 29]\nHowever, for both the government and the market economy in the short term, increases in\nproduction of one good typically mean offsetting decreases somewhere else in the economy. The PPF and Comparative Advantage\nWhile every society must choose how much of each good or service it should produce, it does not need to\nproduce every single good it consumes. Often how much of a good a country decides to produce depends on\nhow expensive it is to produce it versus buying it from a different country. As we saw earlier, the curvature of a\ncountry’s PPF gives us information about the tradeoff between devoting resources to producing one good\nversus another.\n\n[openstax_econ_3e_p35_para_0 | https://openstax.org/details/books/principles-economics-3e | page 35]\nKey Terms allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that someone can afford, given the prices of goods, when all income is spent; the boundary of the opportunity set comparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a country has a lower opportunity cost of production invisible hand Adam Smith's concept that individuals' self-interested behavior can lead to positive social outcomes law of diminishing marginal utility as we consume more of a good or service, the utility we get from additional units of the good or service tends to become smaller than what we received from earlier units law of diminishing returns as we",
+    "context_ids": [
+      "openstax_econ_3e_p30_para_1",
+      "openstax_econ_3e_p29_para_5",
+      "openstax_econ_3e_p35_para_0"
+    ],
+    "context_chars": 2508,
+    "elapsed_ms": 400.92480002203956,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "In Section 2.3, what name did Adam Smith give to the property by which self-interested behavior can lead to positive social results?",
+    "strategy": "rerank",
+    "top_k": 3,
+    "budget_chars": 3000,
+    "gold": [
+      {
+        "source_id": "openstax_econ_3e",
+        "page": 33,
+        "evidence": "property the invisible hand."
+      }
+    ],
+    "results": [
+      {
+        "id": "openstax_econ_3e_p33_para_1",
+        "text": "FIGURE 2.6 The Tradeoff Diagram Both the individual opportunity set (or budget constraint) and the social\nproduction possibilities frontier show the constraints under which individual consumers and society as a whole\noperate. Both diagrams show the tradeoff in choosing more of one good at the cost of less of the other. Third, self-interested behavior can lead to positive social results. For example, when people work hard to make\na living, they create economic output. Consumers who are looking for the best deals will encourage businesses\nto offer goods and services that meet their needs. Adam Smith, writing in The Wealth of Nations, named this\nproperty the invisible hand.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 33,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 5.781162261962891,
+        "hit": true
+      },
+      {
+        "id": "openstax_econ_3e_p35_para_0",
+        "text": "Key Terms allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that someone can afford, given the prices of goods, when all income is spent; the boundary of the opportunity set comparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a country has a lower opportunity cost of production invisible hand Adam Smith's concept that individuals' self-interested behavior can lead to positive social outcomes law of diminishing marginal utility as we consume more of a good or service, the utility we get from additional units of the good or service tends to become smaller than what we received from earlier units law of diminishing returns as we",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 35,
+        "metadata": {
+          "section": "2.1",
+          "strategy": "by_paragraph",
+          "chunk_index": 0
+        },
+        "score": 1.8601727485656738,
+        "hit": false
+      },
+      {
+        "id": "openstax_econ_3e_p32_para_1",
+        "text": "Fortunately however, the\nassumption that individuals are purely self-interested is a simplification about human nature. In fact, we need\nto look no further than to Adam Smith, the very father of modern economics to find evidence of this. The\nopening sentence of his book, The Theory of Moral Sentiments, puts it very clearly: “How selfish soever man\nmay be supposed, there are evidently some principles in his nature, which interest him in the fortune of\nothers, and render their happiness necessary to him, though he derives nothing from it except the pleasure of\nseeing it.” Clearly, individuals are both self-interested and altruistic. Second, we can label self-interested behavior and profit-seeking with other names, such as personal choice\nand freedom.",
+        "source_id": "openstax_econ_3e",
+        "source": "https://openstax.org/details/books/principles-economics-3e",
+        "page": 32,
+        "metadata": {
+          "strategy": "by_paragraph",
+          "chunk_index": 1
+        },
+        "score": 0.8918183445930481,
+        "hit": false
+      }
+    ],
+    "context": "[openstax_econ_3e_p33_para_1 | https://openstax.org/details/books/principles-economics-3e | page 33]\nFIGURE 2.6 The Tradeoff Diagram Both the individual opportunity set (or budget constraint) and the social\nproduction possibilities frontier show the constraints under which individual consumers and society as a whole\noperate. Both diagrams show the tradeoff in choosing more of one good at the cost of less of the other. Third, self-interested behavior can lead to positive social results. For example, when people work hard to make\na living, they create economic output. Consumers who are looking for the best deals will encourage businesses\nto offer goods and services that meet their needs. Adam Smith, writing in The Wealth of Nations, named this\nproperty the invisible hand.\n\n[openstax_econ_3e_p35_para_0 | https://openstax.org/details/books/principles-economics-3e | page 35]\nKey Terms allocative efficiency when the mix of goods produced represents the mix that society most desires budget constraint all possible consumption combinations of goods that someone can afford, given the prices of goods, when all income is spent; the boundary of the opportunity set comparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a country has a lower opportunity cost of production invisible hand Adam Smith's concept that individuals' self-interested behavior can lead to positive social outcomes law of diminishing marginal utility as we consume more of a good or service, the utility we get from additional units of the good or service tends to become smaller than what we received from earlier units law of diminishing returns as we\n\n[openstax_econ_3e_p32_para_1 | https://openstax.org/details/books/principles-economics-3e | page 32]\nFortunately however, the\nassumption that individuals are purely self-interested is a simplification about human nature. In fact, we need\nto look no further than to Adam Smith, the very father of modern economics to find evidence of this. The\nopening sentence of his book, The Theory of Moral Sentiments, puts it very clearly: “How selfish soever man\nmay be supposed, there are evidently some principles in his nature, which interest him in the fortune of\nothers, and render their happiness necessary to him, though he derives nothing from it except the pleasure of\nseeing it.” Clearly, individuals are both self-interested and altruistic. Second, we can label self-interested behavior and profit-seeking with other names, such as personal choice\nand freedom.",
+    "context_ids": [
+      "openstax_econ_3e_p33_para_1",
+      "openstax_econ_3e_p35_para_0",
+      "openstax_econ_3e_p32_para_1"
+    ],
+    "context_chars": 2544,
+    "elapsed_ms": 497.56009998964146,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]

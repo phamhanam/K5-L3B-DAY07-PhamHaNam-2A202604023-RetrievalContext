@@ -1,0 +1,14 @@
+{
+  "strategy": "hybrid",
+  "split": "dev",
+  "n": 15,
+  "top_k": 3,
+  "budget": 3000,
+  "hit1": 5,
+  "hit3": 11,
+  "context_hit": 11,
+  "avg_context_chars": 2434.3333333333335,
+  "median_ms": 69.29079996189103,
+  "index_seconds": 1.6757691000238992,
+  "service_cost_usd": 0
+}

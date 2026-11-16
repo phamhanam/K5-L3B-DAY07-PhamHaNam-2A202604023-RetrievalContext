@@ -1,0 +1,14 @@
+{
+  "strategy": "rerank",
+  "split": "test",
+  "n": 5,
+  "top_k": 3,
+  "budget": 3000,
+  "hit1": 4,
+  "hit3": 4,
+  "context_hit": 4,
+  "avg_context_chars": 2495.8,
+  "median_ms": 497.56009998964146,
+  "index_seconds": 4.453519699978642,
+  "service_cost_usd": 0
+}
